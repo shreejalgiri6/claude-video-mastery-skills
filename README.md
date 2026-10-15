@@ -44,4 +44,4 @@ Made by [Shreejal Giri](https://shreejalgiri.com.np) with Claude.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). Contributions are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
