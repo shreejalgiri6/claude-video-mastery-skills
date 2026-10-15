@@ -41,3 +41,7 @@ Restart Claude Code, then ask for an edit, for example "edit this documentary re
 ## Author
 
 Made by [Shreejal Giri](https://shreejalgiri.com.np) with Claude.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
