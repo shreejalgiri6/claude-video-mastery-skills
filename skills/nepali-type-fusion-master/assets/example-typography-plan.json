@@ -1,0 +1,51 @@
+{
+  "project": "Nepali documentary typography demo",
+  "fps": "30",
+  "resolution": "1080x1920",
+  "provisional": true,
+  "notes": "Illustrative storyboard timing. Align to actual voice before final edit.",
+  "cues": [
+    {
+      "id": "T01",
+      "start_frame": 0,
+      "duration_frames": 54,
+      "text": "युरोप... धेरैको सपना।",
+      "hero": "युरोप",
+      "layout": "hero left-of-center, small secondary beneath, no cards",
+      "entrance": "8–12F eased slide, full shaped word",
+      "hold": "remaining frames after entrance",
+      "exit": "semantic cut",
+      "fusion_nodes": "Text+/PNG > Transform > Merge > MediaOut",
+      "status": "planned",
+      "notes": "Sample only; original copy must come from user"
+    },
+    {
+      "id": "T02",
+      "start_frame": 54,
+      "duration_frames": 72,
+      "text": "तर हरेक सपना साँचो हुँदैन।",
+      "hero": "साँचो हुँदैन",
+      "layout": "small qualifier, large restrained warning",
+      "entrance": "hard cut plus gentle mask reveal",
+      "hold": "long enough for full sentence",
+      "exit": "camera motivated transition",
+      "fusion_nodes": "Text+/PNG > Transform + Rectangle matte > Merge > MediaOut",
+      "status": "planned",
+      "notes": "Source sentence unchanged"
+    },
+    {
+      "id": "T03",
+      "start_frame": 126,
+      "duration_frames": 95,
+      "text": "पर्यटक भिसामा काम गर्न नजाऔँ।",
+      "hero": "पर्यटक भिसामा",
+      "layout": "clear action statement",
+      "entrance": "calm opacity reveal",
+      "hold": "CTA rests substantially longer than entry",
+      "exit": "hold to cut",
+      "fusion_nodes": "Text+/PNG > Transform > MediaOut",
+      "status": "planned",
+      "notes": "Actual timing requires voice / scene context"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "project": "Nepali NGO explainer - demonstration only",
+  "fps": 25,
+  "cues": [
+    {
+      "id": "S01-C01",
+      "tc": "00:00:02:10",
+      "event": "Foreground map marker settles; hypothetical timing for tool testing",
+      "type": "FOLEY",
+      "priority": "LOW",
+      "query": "soft location marker click dry isolated",
+      "asset_url": "",
+      "license_status": "HOLD",
+      "notes": "Preview with narration; omit if distracting. This is not a sourced asset."
+    },
+    {
+      "id": "S01-C02",
+      "tc": "TBD",
+      "event": "Practical helpline information spoken",
+      "type": "SIL",
+      "priority": "HIGH",
+      "query": "",
+      "asset_url": "",
+      "license_status": "N/A",
+      "notes": "No designed SFX; prioritize clearly audible digits."
+    }
+  ]
+}

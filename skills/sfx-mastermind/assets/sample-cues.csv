@@ -1,0 +1,3 @@
+﻿project,cue_id,timecode,start_seconds,event,type,priority,query,asset_url,license_status,notes
+Nepali NGO explainer - demonstration only,S01-C01,00:00:02:10,2.400,Foreground map marker settles; hypothetical timing for tool testing,FOLEY,LOW,soft location marker click dry isolated,,HOLD,Preview with narration; omit if distracting. This is not a sourced asset.
+Nepali NGO explainer - demonstration only,S01-C02,TBD,,Practical helpline information spoken,SIL,HIGH,,,N/A,No designed SFX; prioritize clearly audible digits.
