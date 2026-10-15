@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.png" alt="13 Claude skills for pro video editing" width="100%"></p>
+
 # Claude Video Mastery Skills
 
 13 [Claude Code](https://claude.com/claude-code) skills for professional video editing, built around DaVinci Resolve and Fusion, with a focus on Nepali documentary, NGO and social-reel work.
